@@ -1,5 +1,5 @@
-It's Shaurya this side.
-Learning and growing.
+Hi, 
+I'm Shaurya Sonkar, a tech enthusiast and a passionate learner.
 
 
 <!---
